@@ -1,0 +1,1 @@
+/data/data/com.tencent.mm/MicroMsg/{userid}/appbrand/pkg/_1375364906_27.wxapkg
